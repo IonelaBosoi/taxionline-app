@@ -1,8 +1,8 @@
 ## Online Taxi Booking App MERN
 This project, which is a online taxi boking app, was created to show off a full-stack application with an emphasis on frontend integration and backend services. Features like address geocoding, time and distance computation, autocomplete recommendations, and locating captains nearby are all part of the project.
 
+<img width="283" height="446" alt="Screenshot from 2025-09-19 02-13-18" src="https://github.com/user-attachments/assets/265bf504-3d20-475f-b4e6-e71717ba1631" />
 
-<img width="283" height="546" alt="Screenshot from 2025-09-19 02-13-18" src="https://github.com/user-attachments/assets/7a44baba-7f5a-4fc0-809e-8a6758a4fa29" />
 
 ## stack 
 - **Node.js**: JavaScript runtime for building server-side applications.
